@@ -218,6 +218,7 @@ Format:
 | Philip Smith | [rstack](https://github.com/rstack) | Some Perl and Ruby development experience.  Looking to better my skills and aid the OpenSource community while building my portfolio simultaneously. |
 | Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
+| Rahul J | [rj23187] (https://github.com/rj23187) | Intent to gain C++, Python experience through coding real programs |
 | Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in doing Ruby, OpenSource and artifical Intelligence activities. I have time and mind to spare, looking forward to collaborate and programme more. |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Robert Povsic | [esoyitaque](https://github.com/esoyitaque)| Can program Java and Android would like to learn C++ and Python |
